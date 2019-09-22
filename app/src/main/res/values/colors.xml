@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="ligthShades">#F2EEED</color>
+    <color name="lightAccent">#B29A83</color>
+    <color name="mainBrandColor">#C77D6A</color>
+    <color name="statusBarColor">#aa4b3e</color>
+    <color name="darkAccent">#5275A5</color>
+    <color name="darkShades">#2C252B</color>
+    <color name="textSecondary">#414766</color>
+    <color name="googleBlue">#4086F6</color>
+    <color name="googleYellow">#F8BC00</color>
+    <color name="googleRed">#D74932</color>
+    <color name="googleGreen">#139D52</color>
+    <color name="keyboardAction">#4cb6ac</color>
+    <color name="textDarkColor">@color/darkShades</color>
+</resources>

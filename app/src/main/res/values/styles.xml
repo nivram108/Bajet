@@ -1,0 +1,20 @@
+<resources>
+
+    <style name="MyLight" parent="Theme.AppCompat.Light.NoActionBar" >
+        <item name="colorPrimary">@color/ligthShades</item>
+        <item name="android:colorBackground">@color/ligthShades</item>
+        <item name="colorPrimaryDark">@color/lightAccent</item>
+        <item name="android:statusBarColor">@color/statusBarColor</item>
+        <item name="colorAccent">@color/darkAccent</item>
+        <item name="android:colorForeground">@color/darkShades</item>
+        <item name="android:navigationBarColor">@color/darkShades</item>
+        <item name="android:textColorSecondary">@color/textSecondary</item>
+        <item name="android:textColorPrimaryInverse">@color/ligthShades</item>
+        <item name="android:textColorSecondaryInverse">@color/ligthShades</item>
+    </style>
+    
+    <style name="ProgressBarTheme" parent="Widget.AppCompat.ProgressBar">
+        <item name="colorAccent">@color/mainBrandColor</item>
+    </style>
+
+</resources>
