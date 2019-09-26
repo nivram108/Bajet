@@ -1,6 +1,8 @@
 <resources>
 
     <style name="MyLight" parent="Theme.AppCompat.Light.NoActionBar" >
+        <item name="actionOverflowMenuStyle">@style/OverflowMenuStyle</item>
+
         <item name="colorPrimary">@color/ligthShades</item>
         <item name="android:colorBackground">@color/ligthShades</item>
         <item name="colorPrimaryDark">@color/lightAccent</item>
@@ -16,5 +18,13 @@
     <style name="ProgressBarTheme" parent="Widget.AppCompat.ProgressBar">
         <item name="colorAccent">@color/mainBrandColor</item>
     </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="OverflowMenuStyle" parent="Widget.AppCompat.PopupMenu.Overflow">
+        <item name="android:textColor">@color/textDarkColor</item>
+        <item name="android:background">@color/ligthShades</item>
+        <item name="android:dropDownVerticalOffset">8dp</item>
+    </style>
 </resources>

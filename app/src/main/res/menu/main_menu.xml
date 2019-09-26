@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/budget_setting_action"
+        android:orderInCategory="100"
+        android:title="budget setting"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/view_details_action"
+        android:orderInCategory="100"
+        android:title="view details"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/view_summary_action"
+        android:orderInCategory="100"
+        android:title="view summary"
+        app:showAsAction="never" />
+</menu>

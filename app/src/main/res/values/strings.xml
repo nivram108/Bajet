@@ -7,14 +7,21 @@
     <string name="enter_login_name_hint">Your name</string>
     <string name="welcome_back">Welcome back!</string>
     <string name="saving_goal">Saving Goal:</string>
-    <string name="save">save</string>
+    <string name="save">save $</string>
     <string name="before">before</string>
     <string name="view_detail">View detail</string>
     <string name="expense">Expense:</string>
     <string name="spent">spent</string>
     <string name="this_week">this week</string>
-    <string name="add_cost">add cost</string>
+    <string name="add_expense">add expense</string>
     <string name="budget">Budget</string>
     <string name="add_income">add income</string>
 
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="budget_setting">Budget Setting</string>
 </resources>

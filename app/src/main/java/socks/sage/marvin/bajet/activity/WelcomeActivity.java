@@ -26,7 +26,7 @@ public class WelcomeActivity extends AppCompatActivity {
         progressBar = findViewById(R.id.progress_bar);
         progressText.setVisibility(View.GONE);
         progressBar.setVisibility(View.GONE);
-        new LoadUserDataManager(this, this, progressText.getRootView()).execute(2);
+        new LoadUserDataManager(this, this, progressText.getRootView()).execute(1);
 //        toastMessage(this,2);
     }
 }
